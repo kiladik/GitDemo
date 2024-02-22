@@ -12,3 +12,5 @@ def main():
     # add 5 different numbers to a list and print the average of the numbers
     average = sum / len(numbers)
     print("The average of the numbers is", average)
+    
+print("HI! I'm test.py")
